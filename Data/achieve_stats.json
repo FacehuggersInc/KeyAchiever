@@ -1,0 +1,17 @@
+{
+    "total_keys": 3052,
+    "total_unique_keys": 1274,
+    "highest_avg_min": 61,
+    "highest_avg_hour": 0,
+    "weekly": {
+        "sun": 0,
+        "mon": 7,
+        "tue": 146,
+        "wed": 0,
+        "thu": 0,
+        "fri": 0,
+        "sat": 1701
+    },
+    "highest_week_total": 106500,
+    "highest_avg_week": 15214
+}
